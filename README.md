@@ -12,3 +12,5 @@ https://github.com/jiesutd/NCRFpp[打卡学习中....]
 https://github.com/graykode/nlp-tutorial[打卡学子中...]
 ### 5: 经典论文+代码
 https://github.com/glample/tagger [Neural Architectures for Named Entity Recognition]
+### 6: 指标计算
+https://github.com/chakki-works/seqeval
