@@ -10,3 +10,5 @@ https://github.com/kexinhuang12345/clinicalBERT
 ### 4：PyTorch的学习教程
 https://github.com/jiesutd/NCRFpp[打卡学习中....]  
 https://github.com/graykode/nlp-tutorial[打卡学子中...]
+### 5: 经典论文+代码
+https://github.com/glample/tagger   [Neural Architectures for Named Entity Recognition]
