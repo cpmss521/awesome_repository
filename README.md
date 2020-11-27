@@ -15,11 +15,9 @@ https://github.com/glample/tagger [Neural Architectures for Named Entity Recogni
 
 ### 6: 指标计算
 https://github.com/chakki-works/seqeval
-### 7：知识图谱
-1：https://github.com/graknlabs/biograkn  
-2：https://github.com/MannLabs/CKG  
-3：https://github.com/dchang56/snomed_kge  
 
-1.https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction  
-2. 
+### 7：keras学习
+https://github.com/bojone/bert4keras
+
+
 
