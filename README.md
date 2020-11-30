@@ -1,6 +1,6 @@
-
-### This repository is to document the awesom code for learning
-awesome_repository
+### awesome_repository
+This repository is to document the awesom code for learning
+ 
 
 ### 1 : [**doccano:**](https://github.com/doccano/doccano)  
 open source text annotation tool 
