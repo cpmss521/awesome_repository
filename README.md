@@ -1,5 +1,4 @@
 
-This repository is to document the awesom code 
 awesome_repository
 
 ### 1 : [**doccano:**](https://github.com/doccano/doccano)  
