@@ -50,7 +50,8 @@ https://github.com/SNUDerek/NER_bLSTM-CRF：NER
 https://github.com/maplezzz/NTU_ML2017_Hung-yi-Lee_HW  
 https://github.com/FudanNLP/nlp-beginner   
 https://github.com/ljpzzz/machinelearning  
-https://github.com/apachecn/AiLearning  
+https://github.com/apachecn/AiLearning    
+https://github.com/DA-southampton/NLP_ability
 
 ### attention 
 https://github.com/lucidrains/x-transformers   
