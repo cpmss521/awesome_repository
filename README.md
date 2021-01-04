@@ -51,3 +51,7 @@ https://github.com/maplezzz/NTU_ML2017_Hung-yi-Lee_HW
 https://github.com/FudanNLP/nlp-beginner   
 https://github.com/ljpzzz/machinelearning  
 https://github.com/apachecn/AiLearning  
+
+### attention 
+https://github.com/lucidrains/x-transformers   
+
