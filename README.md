@@ -38,6 +38,8 @@ https://github.com/SNUDerek/NER_bLSTM-CRF：NER
 1. https://github.com/cambridgeltl/MTL-Bioinformatics-2016  
 2. https://github.com/juand-r/entity-recognition-datasets   
 3. https://github.com/davidsbatista/NER-datasets
+4. https://github.com/ontonotes/conll-formatted-ontonotes-5.0  
+    https://github.com/HuHsinpang/Ontonotes5.0-pretreatment
 
 ### 9 : 超参数工具
 1. https://github.com/FontTian/hyperopt-doc-zh  
