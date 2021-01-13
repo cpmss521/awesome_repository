@@ -63,5 +63,8 @@ https://github.com/BinWang28/SBERT-WK-Sentence-Embedding/
 https://github.com/UKPLab/sentence-transformers    
 https://github.com/Separius/awesome-sentence-embedding  
 
+### learning schedulers
+https://github.com/allenai/allennlp/tree/main/allennlp/training/learning_rate_schedulers  
+
 
 
