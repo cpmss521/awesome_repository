@@ -64,8 +64,9 @@ https://github.com/UKPLab/sentence-transformers
 https://github.com/Separius/awesome-sentence-embedding  
 
 ### learning schedulers
-[AllenNLP schedulers](https://github.com/allenai/allennlp/tree/main/allennlp/training/learning_rate_schedulers )
-[FAIRseq lr_scheduler](https://github.com/pytorch/fairseq/tree/master/fairseq/optim/lr_scheduler)
+[AllenNLP schedulers](https://github.com/allenai/allennlp/tree/main/allennlp/training/learning_rate_schedulers )  
+[FAIRseq lr_scheduler](https://github.com/pytorch/fairseq/tree/master/fairseq/optim/lr_scheduler)  
+
 
 
 
