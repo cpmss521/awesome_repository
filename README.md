@@ -60,6 +60,8 @@ https://github.com/lucidrains/x-transformers
 
 ### sentence embedding
 https://github.com/BinWang28/SBERT-WK-Sentence-Embedding/  
-https://github.com/UKPLab/sentence-transformers  
+https://github.com/UKPLab/sentence-transformers    
+https://github.com/Separius/awesome-sentence-embedding  
+
 
 
