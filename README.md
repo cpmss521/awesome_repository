@@ -58,3 +58,8 @@ https://github.com/DA-southampton/NLP_ability
 ### attention 
 https://github.com/lucidrains/x-transformers   
 
+### sentence embedding
+https://github.com/BinWang28/SBERT-WK-Sentence-Embedding/  
+https://github.com/UKPLab/sentence-transformers  
+
+
