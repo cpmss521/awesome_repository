@@ -46,7 +46,9 @@ https://github.com/SNUDerek/NER_bLSTM-CRF：NER
 2 .https://github.com/hyperopt/hyperopt
 
 ### 10: 句法分析工具
-1. https://github.com/mynlp/enju
+1. https://github.com/mynlp/enju  
+2. https://github.com/allenai/scispacy  
+
 
 ### 11. 课程学习
 https://github.com/maplezzz/NTU_ML2017_Hung-yi-Lee_HW  
