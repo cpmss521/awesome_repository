@@ -71,4 +71,7 @@ https://github.com/Separius/awesome-sentence-embedding
 
 
 
+### KG:
+https://github.com/facebookresearch/PyTorch-BigGraph#pre-trained-embeddings  
+https://github.com/jcklie/wikimapper  
 
