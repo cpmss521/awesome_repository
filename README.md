@@ -6,11 +6,16 @@ This repository is to document the awesom code for learning
 open source text annotation tool 
 ### 2: [transformers ](https://github.com/huggingface/transformers)  
 Transformers (formerly known as pytorch-transformers and pytorch-pretrained-bert) provides state-of-the-art general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet, T5, CTRL...) 
-### 3: BIOWordVector 
+### 3: Embedding:
+#### 3.1:WordVector  
 https://github.com/cambridgeltl/BioNLP-2016  
 https://github.com/kexinhuang12345/clinicalBERT    
 https://github.com/dmis-lab/biobert  
 https://github.com/naver/biobert-pretrained  
+#### 3.2: sentence embedding
+https://github.com/BinWang28/SBERT-WK-Sentence-Embedding/  
+https://github.com/UKPLab/sentence-transformers    
+https://github.com/Separius/awesome-sentence-embedding  
 
 ### 4：PyTorch的学习教程
 https://github.com/jiesutd/NCRFpp[打卡学习中....]  
@@ -57,30 +62,26 @@ https://github.com/ljpzzz/machinelearning
 https://github.com/apachecn/AiLearning    
 https://github.com/DA-southampton/NLP_ability
 
-### attention 
+### 12. attention 
 https://github.com/lucidrains/x-transformers   
 
-### sentence embedding
-https://github.com/BinWang28/SBERT-WK-Sentence-Embedding/  
-https://github.com/UKPLab/sentence-transformers    
-https://github.com/Separius/awesome-sentence-embedding  
 
-### learning schedulers
+### 13. learning schedulers
 [AllenNLP schedulers](https://github.com/allenai/allennlp/tree/main/allennlp/training/learning_rate_schedulers )  
 [FAIRseq lr_scheduler](https://github.com/pytorch/fairseq/tree/master/fairseq/optim/lr_scheduler)  
 
 
 
-### KG:
+### 14. KG:
 https://github.com/facebookresearch/PyTorch-BigGraph#pre-trained-embeddings  
 https://github.com/jcklie/wikimapper  
 
 
-### some firm AI:
+### 15. some firms AI:
 https://github.com/sogou   
 https://github.com/facebookresearch  
 
-### 阅读理解:
+### 16. 阅读理解:
 1. 陈丹琦博士论文: Neural Reading Comprehension and Beyond
 2. Neural Machine Reading Comprehension: Methods and Trends
 3. https://github.com/dapurv5/awesome-question-answering   
