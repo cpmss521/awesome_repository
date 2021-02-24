@@ -82,17 +82,19 @@ https://github.com/sogou
 https://github.com/facebookresearch  
 
 ### 16. 阅读理解:
+##### 16.1 论文集:
 1. 陈丹琦博士论文: Neural Reading Comprehension and Beyond
 2. Neural Machine Reading Comprehension: Methods and Trends
-3. https://github.com/dapurv5/awesome-question-answering   
-4. https://github.com/cdqa-suite/cdQA  
-5. https://github.com/cdqa-suite/cdQA-annotator  
-6. https://github.com/deepset-ai/haystack  
-7. https://github.com/sogou/SogouMRCToolkit  
-8. https://github.com/allenai/allennlp-reading-comprehension  
-9. https://github.com/thunlp/RCPapers  
-10. https://github.com/lixinsu/RCZoo
-11. https://github.com/thunlp/RCPapers  
-12. https://github.com/IndexFziQ/KMRC-Papers  
-13. 
+3. https://github.com/thunlp/RCPapers  
+4.  https://github.com/IndexFziQ/KMRC-Papers   
+5.  https://github.com/thunlp/RCPapers   
+
+#### 16.2 项目:
+1. https://github.com/dapurv5/awesome-question-answering   
+2. https://github.com/cdqa-suite/cdQA  
+3. https://github.com/cdqa-suite/cdQA-annotator  
+4. https://github.com/deepset-ai/haystack  
+5. https://github.com/sogou/SogouMRCToolkit  
+6. https://github.com/allenai/allennlp-reading-comprehension  
+7. https://github.com/lixinsu/RCZoo
 
