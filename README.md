@@ -88,9 +88,9 @@ https://github.com/facebookresearch
 3. https://github.com/thunlp/RCPapers  
 4.  https://github.com/IndexFziQ/KMRC-Papers   
 5.  https://github.com/thunlp/RCPapers   
+6.  https://github.com/dapurv5/awesome-question-answering   
 
 #### 16.2 项目:
-1. https://github.com/dapurv5/awesome-question-answering   
 2. https://github.com/cdqa-suite/cdQA  
 3. https://github.com/cdqa-suite/cdQA-annotator  
 4. https://github.com/deepset-ai/haystack  
