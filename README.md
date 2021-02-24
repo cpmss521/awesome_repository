@@ -75,3 +75,7 @@ https://github.com/Separius/awesome-sentence-embedding
 https://github.com/facebookresearch/PyTorch-BigGraph#pre-trained-embeddings  
 https://github.com/jcklie/wikimapper  
 
+
+### some firm AI:
+https://github.com/sogou  
+
