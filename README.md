@@ -96,5 +96,6 @@ https://github.com/facebookresearch
 4. https://github.com/deepset-ai/haystack  
 5. https://github.com/sogou/SogouMRCToolkit  
 6. https://github.com/allenai/allennlp-reading-comprehension  
-7. https://github.com/lixinsu/RCZoo
+7. https://github.com/lixinsu/RCZoo  
+8. https://github.com/NVIDIA/DALI 用于数据加载和预处理以加速深度学习应用程序的库  
 
