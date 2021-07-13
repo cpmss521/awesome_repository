@@ -6,6 +6,8 @@ This repository is to document the awesom code for learning
 open source text annotation tool 
 ### 2: [transformers ](https://github.com/huggingface/transformers)  
 Transformers (formerly known as pytorch-transformers and pytorch-pretrained-bert) provides state-of-the-art general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet, T5, CTRL...) 
+https://github.com/nlpyang/BertSum  
+
 ### 3: Embedding:
 #### 3.1:WordVector  
 https://github.com/cambridgeltl/BioNLP-2016  
