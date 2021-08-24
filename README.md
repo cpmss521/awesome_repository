@@ -34,11 +34,7 @@ https://github.com/glample/tagger [Neural Architectures for Named Entity Recogni
 ### 6: 指标计算
 https://github.com/chakki-works/seqeval
 
-### 7：keras学习
-https://github.com/bojone/bert4keras  
-https://github.com/thushv89/attention_keras  
-https://github.com/0xnurl/keras_character_based_ner :NER  
-https://github.com/SNUDerek/NER_bLSTM-CRF：NER  
+### 7：
 
 
 ### 8: dataset
